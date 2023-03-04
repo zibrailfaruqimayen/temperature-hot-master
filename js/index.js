@@ -33,3 +33,7 @@ document.getElementById("btn-search").addEventListener("click", function () {
 });
 
 loadTemperature("dhaka");
+//
+//
+//
+// const news api=`fa77500342cd40aa9c2126bec9c707a2`
